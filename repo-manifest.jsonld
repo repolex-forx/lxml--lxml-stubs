@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/lxml/lxml-stubs/commit/c6246a1ae5e82a4953ab062f1d7f25f7934f57cb",
       "git:hexsha": "c6246a1ae5e82a4953ab062f1d7f25f7934f57cb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T06:21:37.633280+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lxml/lxml-stubs/commit/a7e5de11676bf455bca8ef42b48d52740e7def05",
