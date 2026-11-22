@@ -65,6 +65,46 @@
       ],
       "ast": [
         "aggregate/ast/d9988ec8f095cacb4044c527335ca21cc38e060a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d9988ec8f095cacb4044c527335ca21cc38e060a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        },
+        {
+          "packageName": "lxml",
+          "ecosystem": "PYPI",
+          "version": "6.1.3",
+          "githubOrg": "lxml",
+          "githubRepo": "lxml",
+          "githubCommit": "3c1a4c7f2d5a3c19efe01adfd3c33ac3c8fe52c1",
+          "githubTag": "lxml-6.1.3",
+          "githubUrl": "https://github.com/lxml/lxml",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/lxml/__init__.py"
+        }
       ]
     }
   ],
