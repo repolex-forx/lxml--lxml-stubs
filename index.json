@@ -3,6 +3,11 @@
   "repo": "lxml-stubs",
   "versions": [
     {
+      "commit": "d9988ec8f095cacb4044c527335ca21cc38e060a",
+      "tag": "0.5.1",
+      "parsed_at": "2026-11-22T06:45:00.327888+00:00"
+    },
+    {
       "commit": "c6246a1ae5e82a4953ab062f1d7f25f7934f57cb",
       "tag": "",
       "parsed_at": "2026-11-06T06:21:37.633757+00:00"
