@@ -1,0 +1,7 @@
+[2026-11-22T06:40:13Z] === AST ITERATION 1 START | repo=lxml/lxml-stubs sha=d9988ec8 ===
+[2026-11-22T06:40:13Z] [iter=1] PHASE START: ast repo=lxml/lxml-stubs sha=d9988ec8
+[2026-11-22T06:40:13Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T06:40:18Z] [iter=1] AST chunks built count=1 triples=41661
+[2026-11-22T06:40:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d9988ec8f095cacb4044c527335ca21cc38e060a/.complete
+[2026-11-22T06:40:18Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-11-22T06:40:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
